@@ -1,0 +1,69 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Привет!+Я+Марк+Шакиров;Junior+Frontend+%2F+Fullstack+Developer;Пишу+на+React,+JavaScript+и+Node.js;Создаю+быстрые+и+красивые+веб-интерфейсы" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <a href="https://github.com/Mark-Shakirov"><img src="https://img.shields.io/badge/Status-Open%20to%20Work-emerald?style=for-the-badge&logo=target&logoColor=white" /></a>
+  <a href="https://t.me/shmark0"><img src="https://img.shields.io/badge/Telegram-Contact%20Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
+
+---
+
+### 👨‍💻 Обо мне
+
+Привет! Я **Марк Шакиров** — начинающий **Frontend / Fullstack разработчик** из Санкт-Петербурга. Увлечен созданием современных пользовательских интерфейсов. Активно прокачиваюсь в чистой архитектуре React, асинхронном программировании, оптимизации производительности и бэкенде на Node.js.
+
+- 🔭 Сейчас работаю над: **Пет-проектами на React с чистой архитектурой**
+- 🌱 Активно изучаю: **TypeScript, Next.js и PostgreSQL**
+- ⚡ Мой приоритет: **Написание чистого, читаемого кода и глубокое понимание фундамента (JS Event Loop, DOM API, React Virtual DOM)**
+
+---
+
+### 🛠️ Стек технологий
+
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  
+  <br/>
+  
+  <!-- Backend & Tools -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Избранные пет-проекты
+
+| Проект | Стек | Описание | Ссылки |
+| :--- | :--- | :--- | :--- |
+| 📋 **TaskFlow** | React, Tailwind, Context API | Адаптивный Канбан-трекер с drag-and-drop и локальным сохранением | [Код](https://github.com/Mark-Shakirov) • [Live Demo](https://Mark-Shakirov.github.io) |
+| 🌤️ **WeatherPulse** | React, Chart.js, OpenWeather API | Интерактивное приложение погоды с автоопределением геолокации | [Код](https://github.com/Mark-Shakirov) • [Live Demo](https://Mark-Shakirov.github.io) |
+| 🛒 **DevStore** | Node.js, Express, React, PostgreSQL | Fullstack e-commerce платформа с авторизацией и фильтрами | [Код](https://github.com/Mark-Shakirov) • [Live Demo](https://Mark-Shakirov.github.io) |
+
+---
+
+### 📊 Статистика GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mark-Shakirov&show_icons=true&theme=radial&hide_border=true&title_color=6366F1&icon_color=6366F1" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-Shakirov&layout=compact&theme=radial&hide_border=true&title_color=6366F1" />
+</p>
+
+---
+
+### 📫 Как со мной связаться
+
+- ✉️ Email: `markshakirov2008@mail.ru`
+- 💬 Telegram: [@shmark0](https://t.me/shmark0)
+- 🐙 GitHub: [github.com/Mark-Shakirov](https://github.com/Mark-Shakirov)
