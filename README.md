@@ -1,10 +1,15 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Привет!+Я+Марк+Шакиров;Junior+Frontend+%2F+Fullstack+Developer;Пишу+на+React,+JavaScript+и+Node.js;Создаю+быстрые+и+красивые+веб-интерфейсы" alt="Typing SVG" />
+  👋 Привет! Я Марк Шакиров
 </h1>
+
+<h3 align="center">
+  Junior Frontend / Fullstack Developer | React • JavaScript • Node.js
+</h3>
 
 <p align="center">
   <a href="https://github.com/Mark-Shakirov"><img src="https://img.shields.io/badge/Status-Open%20to%20Work-emerald?style=for-the-badge&logo=target&logoColor=white" /></a>
   <a href="https://t.me/shmark0"><img src="https://img.shields.io/badge/Telegram-Contact%20Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:markshakirov2008@mail.ru"><img src="https://img.shields.io/badge/Email-Write%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
