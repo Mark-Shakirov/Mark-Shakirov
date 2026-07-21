@@ -58,11 +58,10 @@
 
 ---
 
-### 📊 Статистика GitHub
+### 📊 Статистика и Активность GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mark-Shakirov&show_icons=true&theme=radial&hide_border=true&title_color=6366F1&icon_color=6366F1" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-Shakirov&layout=compact&theme=radial&hide_border=true&title_color=6366F1" />
+  <img src="https://streak-stats.demolab.com/?user=Mark-Shakirov&theme=dark&background=0B0F19&border=6366F1&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=F3F4F6" alt="GitHub Streak Stats" />
 </p>
 
 ---
